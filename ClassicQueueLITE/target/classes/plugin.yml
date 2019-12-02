@@ -1,0 +1,5 @@
+name: ClassicQueueLITE
+version: 1.0
+author: Larskei
+main: Classic.ClassicMain
+description: A classical queue plugin
